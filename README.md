@@ -112,3 +112,39 @@ Paper Title 2 (Author Names et al., Conference YYYY) [🌐](#) [📖](#)
 
 Paper Title 1 (Author Names et al., Conference YYYY) [📖](#)
 Paper Title 2 (Author Names et al., Conference YYYY) [🌐](#) [📖](#) -->
+
+
+
+## Star History
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://api.star-history.com/svg?repos=andyj1/Awesome-Multimodal-Dataset-Distillation&type=Date&theme=dark
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://api.star-history.com/svg?repos=andyj1/Awesome-Multimodal-Dataset-Distillation&type=Date
+    "
+  />
+  <img
+    alt="Star History Chart"
+    src="https://api.star-history.com/svg?repos=andyj1/Awesome-Multimodal-Dataset-Distillation&type=Date"
+  />
+</picture>
+
+
+## Citing this repository
+If you find this project useful for your research, please use the following BibTeX entry.
+```
+@misc{jeong2025awesome,
+  author={Jeong, Jongoh},
+  title={Awesome Multimodal Dataset Distillation},
+  howpublished={\url{https://github.com/andyj1/Awesome-Multimodal-Dataset-Distillation}},
+  year={2025}
+}
+```
+
+## Acknowledgments
