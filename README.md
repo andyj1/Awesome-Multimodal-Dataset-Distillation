@@ -1,2 +1,114 @@
 # Awesome-Multimodal-Dataset-Distillation
-A curated list of awesome papers on *multimodal* dataset distillation and related applications.
+
+   
+Awesome Multimodal Dataset Distillation provides the most comprehensive and detailed information on the Multimodal Dataset Distillation field.
+
+Multimodal dataset distillation is the task of synthesizing a small multimodal dataset such that models trained on it achieve high performance on the original large dataset. A multimodal dataset distillation algorithm takes as input a large real multimodal dataset to be distilled (training set), and outputs a small synthetic distilled dataset, which is evaluated via testing models trained on this distilled dataset on a separate real dataset (validation/test set). A good small distilled multimodal dataset is not only useful in dataset understanding, but has various applications (e.g., continual learning, privacy, neural architecture search, etc.). This task extends the concept of dataset distillation to multiple modalities, allowing for more comprehensive and efficient learning across different types of data.
+
+In recent years, multimodal dataset distillation has gained increasing attention in the research community, across many institutes and labs. More papers are now being published each year. These wonderful researches have been constantly improving multimodal dataset distillation and exploring its various variants and applications.
+
+This project is curated and maintained by [Maintainer Name].
+
+<!-- ## How to submit a pull request? -->
+<!-- 🌐 [Project Page](#)
+📦 [Code](#)
+📖 [bibtex](#) -->
+
+<!-- ## Latest Updates
+
+[YYYY/MM/DD] Paper Title 1 (Author Names, Conference YYYY) [🌐](#) [📖](#)
+[YYYY/MM/DD] Paper Title 2 (Author Names, Conference YYYY) [📖](#)
+[YYYY/MM/DD] Paper Title 3 (Author Names et al., YYYY) [🌐](#) [📖](#)
+[YYYY/MM/DD] Paper Title 4 (Author Names et al., Conference YYYY) [📖](#)
+[YYYY/MM/DD] Paper Title 5 (Author Names et al., Conference YYYY) [🌐](#) [📖](#) -->
+
+## Contents
+
+### Main
+
+- [Awesome Dataset Distillation](#awesome-dd)
+- [Vision-Language Distillation](#vision-language-distillation)
+- [Audio-Visual Distillation](#audio-visual-distillation)
+- [Generative Multimodal Distillation](#generative-multimodal-distillation)
+
+<!-- ### Applications
+
+- [Continual Learning](#continual-learning)
+- [Privacy](#privacy)
+- [Medical](#medical)
+- [Federated Learning](#federated-learning)
+- [Robotics](#robotics)
+- [Autonomous Driving](#autonomous-driving)
+- [Recommendation Systems](#recommendation-systems)
+- [Robustness](#robustness)
+- [Fairness](#fairness) -->
+
+## Main
+
+### Awesome Dataset Distillation
+- [GitHub](https://github.com/Guang000/Awesome-Dataset-Distillation?tab=readme-ov-file) [🌐]
+
+### Vision-Language Distillation
+- [Vision-Language Dataset Distillation](https://arxiv.org/abs/2308.07545) (Xindi Wu et al., TMLR 2024) [📖] [Github](https://github.com/princetonvisualai/multimodal_dataset_distillation) [🌐]
+
+- [Scaling up dataset distillation to imagenet1k with constant memory](https://proceedings.mlr.press/v202/cui23e/cui23e.pdf) (ICML 2023) TESLA [📖] [Github](https://github.com/justincui03/tesla) [🌐]
+
+- [Low-Rank Similarity Mining for Multimodal Dataset Distillation](https://arxiv.org/abs/2406.03793) (Yue Xu et al., ICML 2024) [📖] [Github](https://github.com/silicx/LoRS_Distill) [🌐]
+
+- [Beyond Modality Collapse: Representations Blending for Multimodal Dataset Distillation](https://arxiv.org/abs/2505.14705) (Xin Zhang et al., 2025) [📖]
+
+- [Multi-Modal Dataset Distillation in the Wild](https://arxiv.org/pdf/2506.01586v1) (Dang et al, 2025) [📖] 
+
+- [Leveraging Multi-Modal Information to Enhance Dataset Distillation](https://arxiv.org/abs/2505.08605) (Li et al, 2025) [📖]
+
+### Audio-Visual Distillation
+- [Audio-Visual Dataset Distillation](https://openreview.net/forum?id=IJlbuSrXmk) (Saksham Singh Kushwaha et al., TMLR 2024) [📖] [Github](https://github.com/sakshamsingh1/AVDD) [🌐]
+
+
+<!-- ### Generative Multimodal Distillation -->
+<!-- ## Applications
+
+### Continual Learning
+
+Paper Title 1 (Author Names et al., Conference YYYY) [📖](#)
+Paper Title 2 (Author Names et al., Conference YYYY) [🌐](#) [📖](#)
+
+### Privacy
+
+Paper Title 1 (Author Names et al., Conference YYYY) [📖](#)
+Paper Title 2 (Author Names et al., Conference YYYY) [🌐](#) [📖](#)
+
+### Medical
+
+Paper Title 1 (Author Names et al., Conference YYYY) [📖](#)
+Paper Title 2 (Author Names et al., Conference YYYY) [🌐](#) [📖](#)
+
+### Federated Learning
+
+Paper Title 1 (Author Names et al., Conference YYYY) [📖](#)
+Paper Title 2 (Author Names et al., Conference YYYY) [🌐](#) [📖](#)
+
+### Robotics
+
+Paper Title 1 (Author Names et al., Conference YYYY) [📖](#)
+Paper Title 2 (Author Names et al., Conference YYYY) [🌐](#) [📖](#)
+
+### Autonomous Driving
+
+Paper Title 1 (Author Names et al., Conference YYYY) [📖](#)
+Paper Title 2 (Author Names et al., Conference YYYY) [🌐](#) [📖](#)
+
+### Recommendation Systems
+
+Paper Title 1 (Author Names et al., Conference YYYY) [📖](#)
+Paper Title 2 (Author Names et al., Conference YYYY) [🌐](#) [📖](#)
+
+### Robustness
+
+Paper Title 1 (Author Names et al., Conference YYYY) [📖](#)
+Paper Title 2 (Author Names et al., Conference YYYY) [🌐](#) [📖](#)
+
+### Fairness
+
+Paper Title 1 (Author Names et al., Conference YYYY) [📖](#)
+Paper Title 2 (Author Names et al., Conference YYYY) [🌐](#) [📖](#) -->
