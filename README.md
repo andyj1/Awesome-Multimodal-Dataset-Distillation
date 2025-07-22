@@ -29,7 +29,7 @@ This project is curated and maintained by [Maintainer Name].
 - [Awesome Dataset Distillation](#awesome-dd)
 - [Vision-Language Distillation](#vision-language-distillation)
 - [Audio-Visual Distillation](#audio-visual-distillation)
-- [Generative Multimodal Distillation](#generative-multimodal-distillation)
+<!-- - [Generative Multimodal Distillation](#generative-multimodal-distillation) -->
 
 <!-- ### Applications
 
