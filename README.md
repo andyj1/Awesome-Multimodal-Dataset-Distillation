@@ -7,7 +7,7 @@ Multimodal dataset distillation is the task of synthesizing a small multimodal d
 
 In recent years, multimodal dataset distillation has gained increasing attention in the research community, across many institutes and labs. More papers are now being published each year. These wonderful researches have been constantly improving multimodal dataset distillation and exploring its various variants and applications.
 
-This project is curated and maintained by [Jongoh Jeong](https://github.com/andyj1).
+This project is curated and maintained by [andyj1](https://github.com/andyj1).
 
 <!-- ## How to submit a pull request? -->
 <!-- 🌐 [Project Page](#)
@@ -24,7 +24,7 @@ This project is curated and maintained by [Jongoh Jeong](https://github.com/andy
 
 ## Contents
 
-- [Awesome Image-only Dataset Distillation](#awesome-dataset-distillation)
+- [Awesome Image-only Dataset Distillation](https://github.com/Guang000/Awesome-Dataset-Distillation?tab=readme-ov-file)
 - [Multimodal: Vision-Language](#vision-language-distillation)
 - [Multimodal: Audio-Visual](#audio-visual-distillation)
 <!-- - [Generative Multimodal Distillation](#generative-multimodal-distillation) -->
@@ -44,10 +44,10 @@ This project is curated and maintained by [Jongoh Jeong](https://github.com/andy
 ## Papers
 
 ### Awesome Image-only Dataset Distillation
-- [GitHub](https://github.com/Guang000/Awesome-Dataset-Distillation?tab=readme-ov-file) [GitHub 🌐]
+- [GitHub](https://github.com/Guang000/Awesome-Dataset-Distillation?tab=readme-ov-file) [🌐]
 
 ### Multimodal: Vision-Language
-- pVision-Language Dataset Distillation 📖](https://arxiv.org/abs/2308.07545) (Xindi Wu et al., TMLR 2024) [GitHub 🌐](https://github.com/princetonvisualai/multimodal_dataset_distillation)
+- [Vision-Language Dataset Distillation 📖](https://arxiv.org/abs/2308.07545) (Xindi Wu et al., TMLR 2024) [GitHub 🌐](https://github.com/princetonvisualai/multimodal_dataset_distillation)
 
 - [Scaling up dataset distillation to imagenet1k with constant memory 📖](https://proceedings.mlr.press/v202/cui23e/cui23e.pdf) (ICML 2023) TESLA  [GitHub 🌐](https://github.com/justincui03/tesla)
 
@@ -57,7 +57,9 @@ This project is curated and maintained by [Jongoh Jeong](https://github.com/andy
 
 - [Multi-Modal Dataset Distillation in the Wild 📖](https://arxiv.org/pdf/2506.01586v1) (Dang et al, arXiv 2025)
 
-- [Leveraging Multi-Modal Information to Enhance Dataset Distillation 📖](https://arxiv.org/abs/2505.08605) (Li et al, arXiv 2025) 
+- [Leveraging Multi-Modal Information to Enhance Dataset Distillation 📖](https://arxiv.org/abs/2505.08605) (Li et al, arXiv 2025)
+
+- [Dataset Distillation via Vision-Language Category Prototype 📖](https://arxiv.org/pdf/2506.23580) (Zou et al, ICCV 2025)
 
 ### Multimodal: Audio-Visual
 - [Audio-Visual Dataset Distillation 📖](https://openreview.net/forum?id=IJlbuSrXmk) (Saksham Singh Kushwaha et al., TMLR 2024) [GitHub 🌐](https://github.com/sakshamsingh1/AVDD)
