@@ -1,6 +1,18 @@
 # Awesome Multimodal Dataset Distillation
 
-   
+<div align="center">
+  <img src="./assets/MDD_logo.png" width="200"/>
+  <div>&nbsp;</div>
+  <div align="center">
+    <b><font size="3">Vision-Language</font></b>
+    &nbsp;&nbsp;
+    ·
+    &nbsp;&nbsp;&nbsp;
+    <b><font size="3">Audio-Visual</font></b>
+  </div>
+  <div>&nbsp;</div>
+</div>
+
 Awesome Multimodal Dataset Distillation provides the most comprehensive and detailed information on the Multimodal Dataset Distillation field.
 
 Multimodal dataset distillation is the task of synthesizing a small multimodal dataset such that models trained on it achieve high performance on the original large dataset. A multimodal dataset distillation algorithm takes as input a large real multimodal dataset to be distilled (training set), and outputs a small synthetic distilled dataset, which is evaluated via testing models trained on this distilled dataset on a separate real dataset (validation/test set). A good small distilled multimodal dataset is not only useful in dataset understanding, but has various applications (e.g., continual learning, privacy, neural architecture search, etc.). This task extends the concept of dataset distillation to multiple modalities, allowing for more comprehensive and efficient learning across different types of data.
