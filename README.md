@@ -58,20 +58,22 @@ This project is curated and maintained by [andyj1](https://github.com/andyj1).
 ### Awesome Image-only Dataset Distillation
 - [GitHub](https://github.com/Guang000/Awesome-Dataset-Distillation?tab=readme-ov-file) [🌐]
 
-### Multimodal: Vision-Language
-- [Vision-Language Dataset Distillation 📖](https://arxiv.org/abs/2308.07545) (Xindi Wu et al., TMLR 2024) [GitHub 🌐](https://github.com/princetonvisualai/multimodal_dataset_distillation)
-
-- [Scaling up dataset distillation to imagenet1k with constant memory 📖](https://proceedings.mlr.press/v202/cui23e/cui23e.pdf) (ICML 2023) TESLA  [GitHub 🌐](https://github.com/justincui03/tesla)
-
-- [Low-Rank Similarity Mining for Multimodal Dataset Distillation 📖](https://arxiv.org/abs/2406.03793) (Yue Xu et al., ICML 2024) [GitHub 🌐](https://github.com/silicx/LoRS_Distill)
-
-- [Beyond Modality Collapse: Representations Blending for Multimodal Dataset Distillation 📖](https://arxiv.org/abs/2505.14705) (Xin Zhang et al., arXiv 2025)
-
-- [Multi-Modal Dataset Distillation in the Wild 📖](https://arxiv.org/pdf/2506.01586v1) (Dang et al, arXiv 2025)
-
-- [Leveraging Multi-Modal Information to Enhance Dataset Distillation 📖](https://arxiv.org/abs/2505.08605) (Li et al, arXiv 2025)
-
+- [Leveraging Multi-Modal Information to Enhance Dataset Distillation 📖](https://arxiv.org/abs/2505.08605) Caption Combination (Li et al, arXiv 2025)
+  
 - [Dataset Distillation via Vision-Language Category Prototype 📖](https://arxiv.org/pdf/2506.23580) (Zou et al, ICCV 2025)
+
+  
+### Multimodal: Vision-Language
+- [Vision-Language Dataset Distillation 📖](https://arxiv.org/abs/2308.07545) VL-Distill (Xindi Wu et al., TMLR 2024) [GitHub 🌐](https://github.com/princetonvisualai/multimodal_dataset_distillation)
+
+- [Scaling up dataset distillation to imagenet1k with constant memory 📖](https://proceedings.mlr.press/v202/cui23e/cui23e.pdf) TESLA (Cui et al., ICML 2023)  [GitHub 🌐](https://github.com/justincui03/tesla)
+
+- [Low-Rank Similarity Mining for Multimodal Dataset Distillation 📖](https://arxiv.org/abs/2406.03793) LoRS (Yue Xu et al., ICML 2024) [GitHub 🌐](https://github.com/silicx/LoRS_Distill)
+
+- [Beyond Modality Collapse: Representations Blending for Multimodal Dataset Distillation 📖](https://arxiv.org/abs/2505.14705) RepBlend (Xin Zhang et al., arXiv 2025)
+
+- [Multi-Modal Dataset Distillation in the Wild 📖](https://arxiv.org/pdf/2506.01586v1) MDW (Dang et al, arXiv 2025)
+
 
 ### Multimodal: Audio-Visual
 - [Audio-Visual Dataset Distillation 📖](https://openreview.net/forum?id=IJlbuSrXmk) (Saksham Singh Kushwaha et al., TMLR 2024) [GitHub 🌐](https://github.com/sakshamsingh1/AVDD)
