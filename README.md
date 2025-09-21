@@ -70,7 +70,9 @@ This project is curated and maintained by [andyj1](https://github.com/andyj1).
 
 - [Low-Rank Similarity Mining for Multimodal Dataset Distillation 📖](https://arxiv.org/abs/2406.03793) LoRS (Yue Xu et al., ICML 2024) [GitHub 🌐](https://github.com/silicx/LoRS_Distill)
 
-- [Beyond Modality Collapse: Representations Blending for Multimodal Dataset Distillation 📖](https://arxiv.org/abs/2505.14705) RepBlend (Xin Zhang et al., arXiv 2025)
+- [Beyond Modality Collapse: Representations Blending for Multimodal Dataset Distillation 📖](https://arxiv.org/abs/2505.14705) RepBlend (Xin Zhang et al., NeurIPS 2025)
+
+- Efficient Multimodal Dataset Distillation via Generative Models (Zhenghao Zhao et al., NeurIPS 2025) [Github 🌐](https://github.com/ichbill/EDGE)
 
 - [Multi-Modal Dataset Distillation in the Wild 📖](https://arxiv.org/pdf/2506.01586v1) MDW (Dang et al, arXiv 2025)
 
