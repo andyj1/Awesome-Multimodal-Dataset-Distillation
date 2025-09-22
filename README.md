@@ -72,7 +72,7 @@ This project is curated and maintained by [andyj1](https://github.com/andyj1).
 
 - [Beyond Modality Collapse: Representations Blending for Multimodal Dataset Distillation 📖](https://arxiv.org/abs/2505.14705) RepBlend (Xin Zhang et al., NeurIPS 2025)
 
-- Efficient Multimodal Dataset Distillation via Generative Models (Zhenghao Zhao et al., NeurIPS 2025) [Github 🌐](https://github.com/ichbill/EDGE)
+- [Efficient Multimodal Dataset Distillation via Generative Models 📖](https://arxiv.org/pdf/2509.15472) (Zhenghao Zhao et al., NeurIPS 2025) [Github 🌐](https://github.com/ichbill/EDGE)
 
 - [Multi-Modal Dataset Distillation in the Wild 📖](https://arxiv.org/pdf/2506.01586v1) MDW (Dang et al, arXiv 2025)
 
