@@ -72,13 +72,21 @@ This project is curated and maintained by [andyj1](https://github.com/andyj1).
 
 - [Beyond Modality Collapse: Representations Blending for Multimodal Dataset Distillation 📖](https://arxiv.org/abs/2505.14705) RepBlend (Xin Zhang et al., NeurIPS 2025)
 
-- [Efficient Multimodal Dataset Distillation via Generative Models 📖](https://arxiv.org/pdf/2509.15472) (Zhenghao Zhao et al., NeurIPS 2025) [Github 🌐](https://github.com/ichbill/EDGE)
+- [Efficient Multimodal Dataset Distillation via Generative Models 📖](https://arxiv.org/pdf/2509.15472) EDGE (Zhenghao Zhao et al., NeurIPS 2025) [Github 🌐](https://github.com/ichbill/EDGE)
 
 - [Multi-Modal Dataset Distillation in the Wild 📖](https://arxiv.org/pdf/2506.01586v1) MDW (Dang et al, arXiv 2025)
 
+- [Multimodal dataset distillation made simple by prototype-guided data synthesis 📖](https://openreview.net/pdf/2d64e6404555760e7b759d1c5038892464071db8.pdf) PDS (Choi et al. ICLR 2026 Submission)
+
+- [Multimodal Dataset Distillation via Phased Teacher Models 📖](https://openreview.net/pdf?id=Me4AON8160) PTM-ST (ICLR 2026 Submission)
 
 ### Multimodal: Audio-Visual
 - [Audio-Visual Dataset Distillation 📖](https://openreview.net/forum?id=IJlbuSrXmk) (Saksham Singh Kushwaha et al., TMLR 2024) [GitHub 🌐](https://github.com/sakshamsingh1/AVDD)
+
+
+### Others
+
+- [Hyperbolic Dataset Distillation 📖](https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2025hdd.txt) (Wenyuan Li & Guang Li et al., NeurIPS 2025)
 
 
 <!-- ### Generative Multimodal Distillation -->
