@@ -62,7 +62,8 @@ This project is curated and maintained by [andyj1](https://github.com/andyj1).
   
 - [Dataset Distillation via Vision-Language Category Prototype 📖](https://arxiv.org/pdf/2506.23580) (Zou et al, ICCV 2025)
 
-  
+- [Hyperbolic Dataset Distillation 📖](https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2025hdd.txt) (Wenyuan Li & Guang Li et al., NeurIPS 2025)
+    
 ### Multimodal: Vision-Language
 - [Vision-Language Dataset Distillation 📖](https://arxiv.org/abs/2308.07545) VL-Distill (Xindi Wu et al., TMLR 2024) [GitHub 🌐](https://github.com/princetonvisualai/multimodal_dataset_distillation)
 
@@ -83,10 +84,7 @@ This project is curated and maintained by [andyj1](https://github.com/andyj1).
 ### Multimodal: Audio-Visual
 - [Audio-Visual Dataset Distillation 📖](https://openreview.net/forum?id=IJlbuSrXmk) (Saksham Singh Kushwaha et al., TMLR 2024) [GitHub 🌐](https://github.com/sakshamsingh1/AVDD)
 
-
-### Others
-
-- [Hyperbolic Dataset Distillation 📖](https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2025hdd.txt) (Wenyuan Li & Guang Li et al., NeurIPS 2025)
+- [Decoupled Audio-Visual Dataset Distillation](https://arxiv.org/pdf/2511.17890) (Li et al., arXiv 2025) 
 
 
 <!-- ### Generative Multimodal Distillation -->
