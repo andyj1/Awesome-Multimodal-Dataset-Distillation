@@ -81,7 +81,9 @@ This project is curated and maintained by [andyj1](https://github.com/andyj1).
 
 - [Multimodal Dataset Distillation via Phased Teacher Models 📖](https://openreview.net/pdf?id=Me4AON8160) PTM-ST (ICLR 2026)
 
-- [Efficient Multi-modal Dataset Distillation via Analytic Parameter Matching](https://openreview.net/pdf?id=Fxz0aaGSNY) APM (ICLR 2026 reject)
+- [Understanding Dataset Distillation via Spectral Filtering](https://openreview.net/forum?id=0h5ohpUGY4) UniDD (ICLR 2026)
+  
+- [Efficient Multi-modal Dataset Distillation via Analytic Parameter Matching](https://openreview.net/forum?id=Fxz0aaGSNY)) APM (ICLR 2026 reject)
 
   
 
