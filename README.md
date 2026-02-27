@@ -77,9 +77,13 @@ This project is curated and maintained by [andyj1](https://github.com/andyj1).
 
 - [Multi-Modal Dataset Distillation in the Wild 📖](https://arxiv.org/pdf/2506.01586v1) MDW (Dang et al, arXiv 2025)
 
-- [Multimodal dataset distillation made simple by prototype-guided data synthesis 📖]([https://openreview.net/pdf/2d64e6404555760e7b759d1c5038892464071db8.pdf](https://openreview.net/forum?id=bl3drImevi)) PDS (Choi et al. ICLR 2026 Submission)
+- [Multimodal dataset distillation made simple by prototype-guided data synthesis 📖](https://openreview.net/pdf/2d64e6404555760e7b759d1c5038892464071db8.pdf) PDS (Choi et al. ICLR 2026)
 
-- [Multimodal Dataset Distillation via Phased Teacher Models 📖](https://openreview.net/pdf?id=Me4AON8160) PTM-ST (ICLR 2026 Submission)
+- [Multimodal Dataset Distillation via Phased Teacher Models 📖](https://openreview.net/pdf?id=Me4AON8160) PTM-ST (ICLR 2026)
+
+- [Efficient Multi-modal Dataset Distillation via Analytic Parameter Matching](https://openreview.net/pdf?id=Fxz0aaGSNY) APM (ICLR 2026 reject)
+
+  
 
 ### Multimodal: Audio-Visual
 - [Audio-Visual Dataset Distillation 📖](https://openreview.net/forum?id=IJlbuSrXmk) (Saksham Singh Kushwaha et al., TMLR 2024) [GitHub 🌐](https://github.com/sakshamsingh1/AVDD)
