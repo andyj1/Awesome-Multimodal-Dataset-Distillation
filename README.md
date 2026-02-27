@@ -63,6 +63,8 @@ This project is curated and maintained by [andyj1](https://github.com/andyj1).
 - [Dataset Distillation via Vision-Language Category Prototype 📖](https://arxiv.org/pdf/2506.23580) (Zou et al, ICCV 2025)
 
 - [Hyperbolic Dataset Distillation 📖](https://github.com/Guang000/Awesome-Dataset-Distillation/blob/main/citations/li2025hdd.txt) (Wenyuan Li & Guang Li et al., NeurIPS 2025)
+
+- [Understanding Dataset Distillation via Spectral Filtering](https://openreview.net/forum?id=0h5ohpUGY4) UniDD (ICLR 2026)
     
 ### Multimodal: Vision-Language
 - [Vision-Language Dataset Distillation 📖](https://arxiv.org/abs/2308.07545) VL-Distill (Xindi Wu et al., TMLR 2024) [GitHub 🌐](https://github.com/princetonvisualai/multimodal_dataset_distillation)
@@ -80,8 +82,6 @@ This project is curated and maintained by [andyj1](https://github.com/andyj1).
 - [Multimodal dataset distillation made simple by prototype-guided data synthesis 📖](https://openreview.net/pdf/2d64e6404555760e7b759d1c5038892464071db8.pdf) PDS (Choi et al. ICLR 2026)
 
 - [Multimodal Dataset Distillation via Phased Teacher Models 📖](https://openreview.net/pdf?id=Me4AON8160) PTM-ST (ICLR 2026)
-
-- [Understanding Dataset Distillation via Spectral Filtering](https://openreview.net/forum?id=0h5ohpUGY4) UniDD (ICLR 2026)
   
 - [Efficient Multi-modal Dataset Distillation via Analytic Parameter Matching](https://openreview.net/forum?id=Fxz0aaGSNY)) APM (ICLR 2026 reject)
 
