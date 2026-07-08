@@ -90,6 +90,8 @@ Papers are grouped by the modalities they operate on. **Multimodal** sections co
 
 - [Multi-Modal Dataset Distillation in the Wild 📖](https://arxiv.org/abs/2506.01586) MDW (Dang et al., arXiv 2025)
 
+- [ImagebindDC: Compressing Multi-modal Data with Imagebind-based Condensation 📖](https://arxiv.org/abs/2511.08263) ImagebindDC (Min et al., AAAI 2026)
+
 - [Multimodal Distribution Matching for Vision-Language Dataset Distillation 📖](https://arxiv.org/abs/2605.23482) MDM (Jeong et al., CVPR 2026)
 
 - [Multimodal Dataset Distillation Made Simple by Prototype-Guided Data Synthesis 📖](https://openreview.net/pdf/2d64e6404555760e7b759d1c5038892464071db8.pdf) PDS (Choi et al., ICLR 2026) [GitHub 🌐](https://github.com/junhyeok9712/PDS)
@@ -97,6 +99,12 @@ Papers are grouped by the modalities they operate on. **Multimodal** sections co
 - [Multimodal Dataset Distillation via Phased Teacher Models 📖](https://openreview.net/pdf?id=Me4AON8160) PTM-ST (Guo & Zhao et al., ICLR 2026) [GitHub 🌐](https://github.com/Previsior/PTM-ST)
 
 - [Efficient Multi-modal Dataset Distillation via Analytic Parameter Matching 📖](https://openreview.net/forum?id=Fxz0aaGSNY) APM (ICLR 2026 reject)
+
+- [Asynchronous Matching with Dynamic Sampling for Multimodal Dataset Distillation 📖](https://openreview.net/forum?id=7SgSMKM2KF) AMD (Qi et al., ICLR 2026)
+  
+- [Rank-Aware Hyperbolic Alignment for Vision-Language Dataset Distillation 📖]([https://arxiv.org/abs/2605.23482](https://arxiv.org/abs/2606.29464)) RAHA (Jeong et al., ECCV 2026)
+
+
 
 ### Multimodal: Audio-Visual
 
@@ -127,7 +135,7 @@ For the full, dedicated list of image-only methods (327+ papers, kept up to date
 
 - [Towards Lossless Dataset Distillation via Difficulty-Aligned Trajectory Matching 📖](https://arxiv.org/abs/2310.05773) DATM (Guo & Wang et al., ICLR 2024) [Project Page 🌐](https://gzyaftermath.github.io/DATM/) [GitHub 🌐](https://github.com/GzyAftermath/DATM)
 
-#### Distribution & Feature Matching
+#### Distribution & Feature & Influence Matching
 
 - [CAFE: Learning to Condense Dataset by Aligning Features 📖](https://arxiv.org/abs/2203.01531) CAFE (Wang & Zhao et al., CVPR 2022) [GitHub 🌐](https://github.com/kaiwang960112/cafe)
 
@@ -138,6 +146,10 @@ For the full, dedicated list of image-only methods (327+ papers, kept up to date
 - [DataDAM: Efficient Dataset Distillation with Attention Matching 📖](https://arxiv.org/abs/2310.00093) DataDAM (Sajedi & Khaki et al., ICCV 2023) [Project Page 🌐](https://datadistillation.github.io/DataDAM/) [GitHub 🌐](https://github.com/DataDistillation/DataDAM)
 
 - [Dataset Distillation with Neural Characteristic Function: A Minmax Perspective 📖](https://arxiv.org/abs/2502.20653) NCFM (Wang et al., CVPR 2025) [GitHub 🌐](https://github.com/gszfwsb/NCFM)
+
+- [Geometry-Aware Dataset Condensation for Diffusion Model Training 📖](https://arxiv.org/abs/2512.08317) GeoDM (Xiao Cui et al., ICML 2026)
+
+- [Dataset Distillation by Influence Matching  📖](https://openaccess.thecvf.com/content/CVPR2026/html/Tan_Dataset_Distillation_by_Influence_Matching_CVPR_2026_paper.html) Inf-Match (Tan et al., CVPR 2026)
 
 #### Kernel-Based
 
