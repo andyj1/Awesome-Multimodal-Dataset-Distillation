@@ -92,7 +92,7 @@ Papers are grouped by the modalities they operate on. **Multimodal** sections co
 
 - [ImagebindDC: Compressing Multi-modal Data with Imagebind-based Condensation 📖](https://arxiv.org/abs/2511.08263) ImagebindDC (Min et al., AAAI 2026)
 
-- [Multimodal Distribution Matching for Vision-Language Dataset Distillation 📖](https://arxiv.org/abs/2605.23482) MDM (Jeong et al., CVPR 2026)
+- [Multimodal Distribution Matching for Vision-Language Dataset Distillation 📖](https://arxiv.org/abs/2605.23482) MDM (Jeong et al., CVPR 2026) [GitHub 🌐](https://github.com/andyj1/mdm)
 
 - [Multimodal Dataset Distillation Made Simple by Prototype-Guided Data Synthesis 📖](https://openreview.net/pdf/2d64e6404555760e7b759d1c5038892464071db8.pdf) PDS (Choi et al., ICLR 2026) [GitHub 🌐](https://github.com/junhyeok9712/PDS)
 
@@ -102,7 +102,7 @@ Papers are grouped by the modalities they operate on. **Multimodal** sections co
 
 - [Asynchronous Matching with Dynamic Sampling for Multimodal Dataset Distillation 📖](https://openreview.net/forum?id=7SgSMKM2KF) AMD (Qi et al., ICLR 2026)
   
-- [Rank-Aware Hyperbolic Alignment for Vision-Language Dataset Distillation 📖]([https://arxiv.org/abs/2605.23482](https://arxiv.org/abs/2606.29464)) RAHA (Jeong et al., ECCV 2026)
+- [Rank-Aware Hyperbolic Alignment for Vision-Language Dataset Distillation 📖](https://arxiv.org/abs/2606.29464) RAHA (Jeong et al., ECCV 2026)  [GitHub 🌐](https://github.com/andyj1/raha)
 
 
 
@@ -149,7 +149,7 @@ For the full, dedicated list of image-only methods (327+ papers, kept up to date
 
 - [Geometry-Aware Dataset Condensation for Diffusion Model Training 📖](https://arxiv.org/abs/2512.08317) GeoDM (Xiao Cui et al., ICML 2026)
 
-- [Dataset Distillation by Influence Matching  📖](https://openaccess.thecvf.com/content/CVPR2026/html/Tan_Dataset_Distillation_by_Influence_Matching_CVPR_2026_paper.html) Inf-Match (Tan et al., CVPR 2026)
+- [Dataset Distillation by Influence Matching  📖](https://openaccess.thecvf.com/content/CVPR2026/html/Tan_Dataset_Distillation_by_Influence_Matching_CVPR_2026_paper.html) Inf-Match (Tan et al., CVPR 2026) [GitHub 🌐](https://github.com/hrtan/infmatch)
 
 #### Kernel-Based
 
